@@ -22,7 +22,7 @@
     "@mui/styles": "^5.14.18",
     "@tabler/icons": "^1.119.0",
     "@testing-library/jest-dom": "^6.1.4",
-    "@testing-library/react": "^14.0.0",
+    "@testing-library/react": "^14.1.2",
     "@testing-library/user-event": "^14.5.1",
     "@tiptap/extension-link": "^2.1.12",
     "@tiptap/react": "^2.1.12",
