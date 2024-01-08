@@ -20,7 +20,7 @@
     "@mantine/tiptap": "^7.2.2",
     "@mui/material": "^5.14.18",
     "@mui/styles": "^5.14.18",
-    "@tabler/icons": "^1.119.0",
+    "@tabler/icons": "^2.45.0",
     "@testing-library/jest-dom": "^6.1.4",
     "@testing-library/react": "^14.0.0",
     "@testing-library/user-event": "^14.5.1",
